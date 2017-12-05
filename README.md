@@ -1,2 +1,2 @@
 # translation
-discussion onlt
+discussion only.
